@@ -19,6 +19,13 @@ Check out the live demo of Mapty here:
 - **Workout List**: See all workouts in a detailed list.
 - **Persistent Storage**: Workouts are saved in the browser’s local storage for future use.
 
+##User Interface
+Here's a preview of how the Mapty app looks in action:
+![Project UI](ProjectUI.png)
+
+
+
+
 ## **How to Use**
 
 1. **Access the Application**
