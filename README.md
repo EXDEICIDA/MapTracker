@@ -7,7 +7,7 @@
 
 ## **Live Demo**
 
-Check out the live demo of Mapty here:  
+Check out the live demo of Mapty here => 
 [**Mapty Live Demo**](https://66ea39bd35bcb9d9088d01ea--steady-fairy-290c28.netlify.app/)
 
 ## **Features**
