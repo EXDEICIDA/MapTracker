@@ -52,11 +52,8 @@ Here's a preview of how the Mapty app looks in action:
 - **Geocoding**: Utilizes a geocoding API to convert workout locations to map markers.
 - **Data Storage**: Uses the browser's local storage for storing workout data, ensuring persistence across sessions.
 
-## **Future Enhancements**
-
-- Ability to edit and delete existing workouts.
-- Weather integration for each workout.
-- Detailed statistics for tracking performance and progress over time.
+License
+This was a learning project for a portfolio project! You can not claim it as your own or use it to teach. @copyright @jonasschmedtmann
 
 ## **Project Setup**
 
